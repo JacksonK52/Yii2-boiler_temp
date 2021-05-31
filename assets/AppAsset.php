@@ -24,12 +24,10 @@ class AppAsset extends AssetBundle
         "css/fontawesome/css/all.min.css",
         "css/fontawesome-animation/font-awesome-animation.min.css",
         "css/animate/animate.min.css",
-        "css/font.css",
         "css/style.css",
     ];
     public $js = [
         "js/alertNotification.js",
-        "js/template/scripts.js",
         "js/bootstrap/bootstrap.min.js",
     ];
 }
