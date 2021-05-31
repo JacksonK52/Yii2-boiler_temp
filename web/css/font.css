@@ -1,0 +1,46 @@
+/* =============================== LATO =============================== */
+@font-face {
+    font-family: lato-regular;
+    src: url(/fonts/lato/Lato-Regular.ttf);
+}
+.font-lato {
+    font-family: lato-regular, sans-serif;
+}
+@font-face {
+    font-family: lato-regular-bold;
+    src: url(/fonts/lato/Lato-Bold.ttf);
+}
+.font-bold {
+    font-family: lato-regular-bold, sans-serif;
+    font-weight: 700;
+}
+
+/* =============================== Lobster =============================== */
+@font-face {
+    font-family: lobster;
+    src: url(/fonts/lobster/Lobster-Regular.ttf);
+}
+.font-lobster {
+    font-family: lobster, sans-serif;
+    font-size: 400;
+}
+
+/* =============================== CCODE39 =============================== */
+@font-face {
+    font-family: ccode39;
+    src: url(/fonts/ccode39/ConnectCode39.ttf);
+}
+.font-barcode {
+    font-family: ccode39, sans-serif;
+}
+
+/* =============================== FONT COLOR =============================== */
+.help-block-error {
+    font-family: lato-regular, sans-serif;
+    color: red;
+}
+
+/* =============================== FONT size =============================== */
+.font-size-24 {
+    font-size: 20px !important;
+}
